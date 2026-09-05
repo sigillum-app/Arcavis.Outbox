@@ -1,7 +1,8 @@
 <Solution>
-  <Configurations>
-    <Platform Name="Any CPU" />
-  </Configurations>
+  <Folder Name="/src/">
+    <Project Path="src/Arcavis.Outbox.Abstractions/Arcavis.Outbox.Abstractions.csproj" Id="f48a6331-daf7-4543-9a28-f4f9cedbb5dd" />
+    <Project Path="src/Arcavis.Outbox.InMemory/Arcavis.Outbox.InMemory.csproj" Id="6d0310ad-d3b8-4cf7-b603-61ace68a9395" />
+  </Folder>
   <Folder Name="/_files/">
     <File Path=".gitattributes" />
     <File Path=".gitignore" />
